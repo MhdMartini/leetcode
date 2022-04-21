@@ -23,7 +23,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ## Constraints
 
-- <code> 0 <= s.length <= 5 * $10^4$ </code>
+- <code> 0 <= s.length <= 5 * 10<sup>4</sup> </code>
 
 - <code> s </code>
 consists of English letters, digits, symbols and spaces

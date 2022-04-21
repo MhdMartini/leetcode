@@ -22,4 +22,4 @@ The overall run time complexity should be O(log (m+n)).
 - <code> 0 <= m <= 1000 </code>
 - <code> 0 <= n <= 1000 </code>
 - <code> 1 <= m + n <= 2000 </code>
-- <code> -106 <= nums1[i], nums2[i] <= 106 </code>
+- <code> -10<sup>6</sup> <= nums1[i], nums2[i] <= 10<sup>6</sup> </code>

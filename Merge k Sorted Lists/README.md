@@ -31,11 +31,11 @@ You are given an array of <code>k</code> linked-lists <code>lists</code>, each l
 
 - <code> k == lists.length </code>
 
-- <code> 0 <= k <= $10^4$ </code>
+- <code> 0 <= k <= 10<sup>4</sup> </code>
 
 - <code> 0 <= lists[i].length <= 500 </code>
 
-- <code> $10^{-4}$ <= lists[i][j] <= $10^4$ </code>
+- <code> -10<sup>4</sup> <= lists[i][j] <= 10<sup>4</sup> </code>
 
 - <code> lists[i] </code>
 is sorted in <strong>ascending order.</strong>
@@ -43,4 +43,4 @@ is sorted in <strong>ascending order.</strong>
 - The sum of
 <code> lists[i].length </code>
 will not exceed
-<code> $10^4$ </code>
+<code> 10<sup>4</sup> </code>
