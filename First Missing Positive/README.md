@@ -20,7 +20,5 @@ You must implement an algorithm that runs in <code>O(n)</code> time and uses con
 
 ## Constraints
 
-$-2^{31}$
-
-- <code> 1 <= nums.length <= 5 * $10^5$ </code>
-- <code> $-2^{31}$ <= nums[i] <= $2^{31}$ - 1 </code>
+- <code> 1 <= nums.length <= 5 * 10<sup>5</sup> </code>
+- <code> -2<sup>31</sup> <= nums[i] <= 2<sup>31</sup> - 1 </code>
