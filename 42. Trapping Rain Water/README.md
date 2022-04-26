@@ -4,6 +4,8 @@ Given <code>n</code> non-negative integers representing an elevation map where t
 
 ## Example 1
 
+![](example1.png)
+
     Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
     Output: 6
 
